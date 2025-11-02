@@ -1,0 +1,24 @@
+{
+  "name": "6502-pl0-sim",
+  "version": "0.1.0",
+  "description": "6502-like CPU simulator with a PL/0-style language (manual-first; Node.js scaffold included).",
+  "type": "commonjs",
+  "main": "cpu-sim.js",
+  "scripts": {
+    "demo": "node examples/run-matrix-test.js",
+    "test": "node examples/run-matrix-test.js"
+  },
+  "keywords": [
+    "6502",
+    "VM",
+    "virtual-machine",
+    "pl0",
+    "compiler",
+    "interpreter",
+    "nodejs",
+    "education",
+    "toy"
+  ],
+  "author": "",
+  "license": "CC0-1.0"
+}
