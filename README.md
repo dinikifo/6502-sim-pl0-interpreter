@@ -30,9 +30,9 @@ The authoritative description of the ISA and language is in **manual.pdf**. This
 1. **Install Node.js** (v16+ recommended).
 2. Clone the repo and run the demo:
 
-npm run demo
+npm cpu-sim.js
 # or
-node examples/run-matrix-test.js
+reference the implementation in the pdf.
 
 You should see stack/memory prints after a short run.
 Replace the scaffold with your full implementation when ready.
