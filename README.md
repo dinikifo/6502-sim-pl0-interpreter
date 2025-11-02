@@ -31,7 +31,7 @@ The authoritative description of the ISA and language is in **manual.pdf**. This
 2. Clone the repo and run the demo:
 
 npm cpu-sim.js
-# or
+or
 reference the implementation in the pdf.
 
 You should see stack/memory prints after a short run.
