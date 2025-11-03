@@ -10,9 +10,8 @@ The authoritative description of the ISA and language is in **manual.pdf**. This
 ## Contents
 
 - `manual.pdf` — Instruction set & language reference (authoritative spec).
-- `cpu-sim.js` — Node.js implementation (or scaffold) exporting:
-  - `CounterMachine` — the VM
-  - `compilePL0(source, baseAddr?, name?)` — PL/0→VM compiler
+- `cpu-sim.js` — Node.js standalone implementation for the cpu and pl0 language
+- `c.transpiler.js` -Node.js standalone implementation for the cpu, pl0 language and transpiler from a c like laguage to pl0 language.
 
 ---
 
